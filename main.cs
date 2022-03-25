@@ -5,13 +5,12 @@
 
 using System;
 
-class Program {
+class Program{
     public static void Main(string[] args)
     {
         // This function states user's address input.
         string streetName;
         int streetNumber;
-        
         Console.WriteLine("This program will retell you your street name and street number.");
         Console.WriteLine("");
         
