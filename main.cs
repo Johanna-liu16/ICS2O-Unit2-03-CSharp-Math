@@ -13,7 +13,6 @@ class Program
         string streetName;
         int streetNumber;
         Console.WriteLine("This program will retell you your street name and street number.");
-        
         Console.Write("Enter your street name: ");
         streetName = Console.ReadLine();
         Console.Write("Enter your street number: ");
